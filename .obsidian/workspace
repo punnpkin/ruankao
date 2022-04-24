@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "55229b43bfbf033f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e6216d2aa0ec4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "14_UML.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "612bafe453097f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "521c7c5ec01b3691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898da9c4f367b826",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c09fae1136c7dadc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c73f0bf93e931c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "674aa1be46de5637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63db61ad829a8d27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14_UML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c4e6216d2aa0ec4e",
+  "lastOpenFiles": [
+    "14_UML.md",
+    "13_数据流图.md",
+    "12_面向对象.md",
+    "07_数据结构02.md"
+  ]
+}
